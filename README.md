@@ -34,6 +34,5 @@ Sistema de detección de anomalías sobre imágenes de piezas de plástico media
 #### [Nombre del repo] — Análisis estadístico de subvenciones a la investigación en Castilla y León (BOCYL)
 Pipeline completo de datos sobre convocatorias oficiales de ayudas a la investigación: extracción y estructuración de datos de fuentes oficiales, almacenamiento en MongoDB y análisis estadístico avanzado (pruebas de independencia, ANOVA, regresión logística) para estudiar patrones de concesión de ayudas en función de variables como género, rama de conocimiento y centro de investigación, cubriendo más de una década de datos históricos (2010–2025) de cinco instituciones públicas. El trabajo completo, con resultados y conclusiones, está disponible en el propio repositorio.
 `Python` · `MongoDB` · `scipy` · `statsmodels` · `R`
- 
-*(más proyectos próximamente: aplicación web con front y backend, sistema de agentes con Neo4j y LLMs locales)*
+
  
